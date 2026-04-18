@@ -28,9 +28,9 @@ export default function Hero() {
           className="flex-1"
         >
           <img 
-            src="https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600&h=400&fit=crop" 
-            alt="Familia mexicana"
-            className="rounded-xl shadow-2xl w-full object-cover"
+            src="https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&h=600&fit=crop" 
+            alt="Familia mexicana feliz frente a su hogar"
+            className="rounded-2xl shadow-2xl w-full object-cover h-[500px]"
           />
         </motion.div>
       </div>
